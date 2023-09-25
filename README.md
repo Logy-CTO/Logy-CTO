@@ -1,3 +1,25 @@
+##  Main Tech Stack 
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</div>
+<br>
+
+##  Git Status
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Logy-cto)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+![Logy-cto's github stats](https://github-readme-stats.vercel.app/api?username=Logy-cto&show_icons=true&theme=merko)
+[![Logy-cto's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Logy-cto&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=merko)](https://github.com/Logy-cto)
+
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLogy-cto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) -->
+<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hong2hwa3542)](https://solved.ac/hong2hwa3542/) 
 <a href="https://opgc.me/#/users/Logy-CTO" target="_blank"><img src="https://api.opgc.me/githubs/users/Logy-CTO/tag/?theme=basic" /></a>
 
