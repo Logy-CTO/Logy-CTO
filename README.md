@@ -6,7 +6,7 @@
 
 스타트업 Logy의 개발자 홍택수입니다.
 <br><br>
-그와 동시에 소프트웨어공학과를 재학하고 있습니다.
+그와 동시에 소프트웨어공학과(산업디자인학 복수전공)를 재학하고 있습니다.
 <br>
 Back-End Engineer, Front-End Engineer, PO(Product Owner), PM(Project/Product Manager), 
 <br><br>
