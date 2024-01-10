@@ -2,6 +2,9 @@
 <div>
   <a href="https://github.com/Logy-CTO" target="_blank"><img src="https://img.shields.io/badge/GitHub-6AD0C5.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div>
+<div>
+  <a href="https://github.com/hongtaiksu" target="_blank"><img src="https://img.shields.io/badge/GitHub-6AD0C5.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
+</div>
 
 
 스타트업 Logy의 개발자 홍택수입니다.
