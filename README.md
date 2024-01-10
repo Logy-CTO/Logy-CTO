@@ -1,6 +1,6 @@
 ##  Intro
 <div>
-  <a href="https://github.com/Logy-CTO" target="_blank"><img src="https://img.shields.io/badge/GitHub-6AD0C5.svg?style=flat-square&logo=GitHub&logoColor=white"/>본 계정</a>
+  <a href="https://github.com/Logy-CTO" target="_blank"><img src="https://img.shields.io/badge/GitHub-6AD0C5.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <p>본 계정</p>
 </div>
 <div>
