@@ -1,9 +1,11 @@
 ##  Intro
 <div>
   <a href="https://github.com/Logy-CTO" target="_blank"><img src="https://img.shields.io/badge/GitHub-6AD0C5.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <p>본 계정</p>
 </div>
 <div>
-  <a href="https://github.com/hongtaiksu" target="_blank"><img src="https://img.shields.io/badge/GitHub-6AD0C5.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://github.com/hongtaiksu" target="_blank"><img src="https://img.shields.io/badge/GitHub-FF6F61.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <p>프로젝트 계정</p>
 </div>
 
 
