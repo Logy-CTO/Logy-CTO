@@ -7,7 +7,7 @@
   <a href="https://motley-bongo-b81.notion.site/Backend-DEV-feaa38a12ccb4cd1a35050b750abae07" target="_blank">
     <img src="https://img.shields.io/badge/Notion-FF6F61.svg?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
-  <p>프로젝트 계정</p>
+  <p>노션 프로필</p>
 </div>
 
 
