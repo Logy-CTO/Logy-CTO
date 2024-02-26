@@ -1,13 +1,8 @@
 ##  Intro
 <div>
-  <a href="https://github.com/Logy-CTO" target="_blank"><img src="https://img.shields.io/badge/GitHub-6AD0C5.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <p>본 계정</p>
-</div>
-<div>
   <a href="https://motley-bongo-b81.notion.site/Backend-DEV-feaa38a12ccb4cd1a35050b750abae07" target="_blank">
     <img src="https://img.shields.io/badge/Notion-FF6F61.svg?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
-  <p>노션 프로필</p>
 </div>
 
 <div align="center">
