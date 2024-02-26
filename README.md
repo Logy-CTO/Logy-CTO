@@ -17,8 +17,9 @@
 <br>
 Back-End Engineer, Front-End Engineer, PO(Product Owner), PM(Project/Product Manager), 
 <br><br>
-끊임없이 새로운 분야의 공부를 하고 있으며, 
-현재는 **DevOps** 로도 뻗어나가고 있습니다.
+개발은 가치를 실현하기 위한 최고의 도구라고 생각합니다.
+서비스는 사람들이 사용할 때, 그리고 지불할 때 증명됩니다.
+완벽보다는 완료를 추구합니다.
 <br><br>
 
 
@@ -38,6 +39,16 @@ Back-End Engineer, Front-End Engineer, PO(Product Owner), PM(Project/Product Man
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+</div>
+<br>
+
+##  etc
+<div>
+  <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 <br>
 
