@@ -10,7 +10,7 @@
   <br><br>
   Inha Univ.
   <br>
-  Ai, Back-End Engineer, Front-End Engineer, PO(Product Owner), PM(Project/Product Manager), 
+  Ai, Back-End Engineer, PM(Project/Product Manager), 
   <br><br>
 </div>
 
