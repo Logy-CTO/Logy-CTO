@@ -6,20 +6,12 @@
 </div>
 
 <div align="center">
-  스타트업 Logy, isHere 개발자 홍택수입니다.
+  Logy CEO
   <br><br>
-  그와 동시에 소프트웨어공학과를 재학하고 있습니다.
+  Inha Univ.
   <br>
-  Back-End Engineer, Front-End Engineer, PO(Product Owner), PM(Project/Product Manager), 
+  Ai, Back-End Engineer, Front-End Engineer, PO(Product Owner), PM(Project/Product Manager), 
   <br><br>
-  <span>
-  개발은 가치를 실현하기 위한 최고의 도구라고 생각합니다.
-    
-  서비스는 사람들이 사용할 때, 그리고 지불할 때 증명됩니다.
-  
-  완벽보다는 완료를 추구합니다.
-  
-  </span>
 </div>
 
 ##  Main Tech Stack 
