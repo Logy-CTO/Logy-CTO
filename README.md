@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  Logy CEO
+  Logy Technical Advisor
   <br><br>
   <b>Inha Univ.</b>
   <br>
