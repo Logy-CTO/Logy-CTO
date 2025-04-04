@@ -8,7 +8,7 @@
 <div align="center">
   Logy CEO
   <br><br>
-  Inha Univ.
+  <b>Inha Univ.</b>
   <br>
   Ai, Back-End Engineer, PM(Project/Product Manager), 
   <br><br>
